@@ -18,4 +18,4 @@
 - 🎯 Goal: Build my own software company.
 
 ## 🛠️ Tech Stack
-Coming soon...
+HTML • CSS • Full Stack JavaScript
